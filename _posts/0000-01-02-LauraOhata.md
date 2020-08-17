@@ -3,5 +3,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I grow food to share and share to grow.
 Use the left arrow to go back!
